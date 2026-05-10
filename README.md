@@ -4,9 +4,17 @@
 </div>
 
 <div align="center">
+
+
  <div align="center">
-   WILLIM PALACIO 🦈
- <div align="center">
+
+<h1>WILLIM PALACIO</h1>
+
+<h3>
+Full Stack Developer • Cybersecurity • Linux
+</h3>
+
+</div>
 
  ____________________________________________________________________________________________________________________________________________
 
