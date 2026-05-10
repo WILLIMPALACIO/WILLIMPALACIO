@@ -21,20 +21,9 @@ Frontend & Backend Developer | Linux System Administration | Cybersecurity | Rea
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,react,angular,java,javascript,python,cpp,nodejs,linux,aws" />
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase,bash" />
-
-</div>
-
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
