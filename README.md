@@ -19,10 +19,14 @@
 Frontend & Backend Developer | Linux System Administration | Cybersecurity | React • Firebase • Node.js | Azure & Cloud Student
  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=vscode,git,react,angular,java,javascript,python,cpp,nodejs,linux,aws" />
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,bash" />
 
 </div>
