@@ -4,6 +4,14 @@
 </div>
 
 <div align="center">
+ <div align="center">
+   WILLIM PALACIO 🦈
+ <div align="center">
+
+ ____________________________________________________________________________________________________________________________________________
+
+Frontend & Backend Developer | Linux System Administration | Cybersecurity Enthusiast | React • Firebase • Node.js | Azure & Cloud Student
+ 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
